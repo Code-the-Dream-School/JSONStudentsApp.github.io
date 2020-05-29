@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Tom",
+    "currentStudent": true
+  },
+  {
+    "name": "Lori",
+    "currentStudent": true
+  },
+  {
+    "name": "Dan",
+    "currentStudent": false
+  },
+  {
+    "name": "Maria",
+    "currentStudent": false
+  }
+]
