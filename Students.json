@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Adam",
+    "last_name": "Anderson",
+    "currentStudent": true,
+    "id" : 0
+  },
+  {
+    "name": "Alex",
+    "last_name": "Ashwoon",
+    "currentStudent": true,
+    "id" : 1
+  },
+  {
+    "name": "Dan",
+    "last_name": "Aikin",
+    "currentStudent": false,
+    "id" : 2
+  },
+  {
+    "name": "Ben",
+    "last_name": "Bateman",
+    "currentStudent": false,
+    "id" : 3
+  },
+  {
+    "name": "Carl",
+    "last_name": "Bongard",
+    "currentStudent": false,
+    "id" : 4
+  },
+  {
+    "name": "David",
+    "last_name": "Boyd",
+    "currentStudent": false,
+    "id" : 5
+  },
+  {
+    "name": "John",
+    "last_name": "Frick",
+    "currentStudent": false,
+    "id" : 6
+  },
+  {
+    "name": "Jack",
+    "last_name": "Kassing",
+    "currentStudent": false,
+    "id" : 7
+  },
+]
