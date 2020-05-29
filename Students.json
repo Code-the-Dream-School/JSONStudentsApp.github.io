@@ -2,49 +2,49 @@
   {
     "name": "Adam",
     "last_name": "Anderson",
-    "currentStudent": true,
+    "status": true,
     "id" : 0
   },
   {
     "name": "Alex",
     "last_name": "Ashwoon",
-    "currentStudent": true,
+    "status": true,
     "id" : 1
   },
   {
     "name": "Dan",
     "last_name": "Aikin",
-    "currentStudent": false,
+    "status": true,
     "id" : 2
   },
   {
     "name": "Ben",
     "last_name": "Bateman",
-    "currentStudent": false,
+    "status": false,
     "id" : 3
   },
   {
     "name": "Carl",
     "last_name": "Bongard",
-    "currentStudent": false,
+    "status": true,
     "id" : 4
   },
   {
     "name": "David",
     "last_name": "Boyd",
-    "currentStudent": false,
+    "status": false,
     "id" : 5
   },
   {
     "name": "John",
     "last_name": "Frick",
-    "currentStudent": false,
+    "status": true,
     "id" : 6
   },
   {
     "name": "Jack",
     "last_name": "Kassing",
-    "currentStudent": false,
+    "status": true,
     "id" : 7
   },
 ]
